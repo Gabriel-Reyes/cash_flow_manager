@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Cash Flow/invoices_historical.csv
+Cash Flow/sample_payables.csv
+Cash Flow/sample_receivables.csv
+.DS_Store
